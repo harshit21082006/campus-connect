@@ -59,4 +59,4 @@ Students struggle to find meals, resources, and points-based rewards efficiently
 ## 📂 Project Setup (For Developers)
 1. Clone the repo:  
 ```bash
-git clone https://github.com/yourusername/CampusConnect.git
+git clone https://github.com/harshit21082006/CampusConnect.git
